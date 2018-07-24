@@ -3,6 +3,7 @@
 Solution to daily coding problem 7.24.18
 
 Thanks to: https://www.dailycodingproblem.com/
+
 This repo contains my solution to the following problem:
 
 Good morning! Here's your coding interview problem for today.
