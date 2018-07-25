@@ -1,4 +1,4 @@
-# DailyCodingProblem1
+# DailyCodingProblem
 
 Solution to daily coding problem 7.24.18
 
