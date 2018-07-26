@@ -2,11 +2,10 @@
 
 This repo contains my solutions to the daily coding problems from https://www.dailycodingproblem.com/
 
-The folders are formatted DCP_month.day.year
+# DCP1
 
-# DCP_7.24.18
-
-My solution to daily coding problem from 7.24.18
+7.24.18
+My solution to daily coding problem #1
 
 Good morning! Here's your coding interview problem for today.
 
@@ -18,9 +17,9 @@ For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
 Bonus: Can you do this in one pass?
 
-# DCP_7.25.18
-
-My solution to daily coding problem from 7.25.18
+# DCP2
+7.25.18
+My solution to daily coding problem #2
 
 Good morning! Here's your coding interview problem for today.
 
@@ -32,7 +31,8 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
-# DCP_7.26.18
+# DCP3
+7.26.18
 
 Good morning! Here's your coding interview problem for today.
 
