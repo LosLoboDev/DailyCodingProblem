@@ -47,6 +47,7 @@ class Node:
         self.val = val
         self.left = left
         self.right = right
+
 The following test should pass:
 
 node = Node('root', Node('left', Node('left.left')), Node('right'))
